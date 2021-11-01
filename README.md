@@ -1,20 +1,15 @@
 # en-EN
-- 👋 Hi, I’m @ScriptTutoriaisBR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Luiz Bruno R. T. I manage the pages [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES) | [SCRIPT TUTORIAIS](https://scripttutoriais.blogspot.com/).
+- 👀 I'm interested in almost everything.
+- 🌱 I'm currently learning SQL.
+- 💞️ I try to collaborate on almost everything.
+- 📫 How to reach me [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES).
 
 <br>
 
 # pt-BR
-- 👋 Olá, sou @ScriptTutoriaisBR
-- 👀 Estou interessado em ...
-- 🌱 Atualmente estou aprendendo ...
-- 💞️ Procuro colaborar em ...
-- 📫 Como entrar em contato comigo ...
-
-<!---
-ScriptTutoriaisBR / ScriptTutoriaisBR é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
---->
+- 👋 Olá, sou Luiz Bruno R. T. Administro as páginas [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES) | [SCRIPT TUTORIAIS](https://scripttutoriais.blogspot.com/).
+- 👀 Estou interessado em quase tudo.
+- 🌱 Atualmente estou aprendendo SQL.
+- 💞️ Procuro colaborar em quase tudo.
+- 📫 Como entrar em contato comigo [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES).
