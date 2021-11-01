@@ -13,3 +13,5 @@
 - 🌱 Atualmente estou aprendendo SQL.
 - 💞️ Procuro colaborar em quase tudo.
 - 📫 Como entrar em contato comigo [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES).
+<br>
+Ajude-nos com novos projetos, apoie financeiramente [PayPal](https://www.paypal.com/donate/?hosted_button_id=54V8JBM3G78N8)
