@@ -1,17 +1,35 @@
-# en-EN
-- 👋 Hi, I’m Luiz Bruno R. T. I manage the pages [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES) | [SCRIPT TUTORIAIS](https://scripttutoriais.blogspot.com/).
-- 👀 I'm interested in almost everything.
-- 🌱 I'm currently learning SQL.
-- 💞️ I try to collaborate on almost everything.
-- 📫 How to reach me [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES).
+## Olá! Eu sou o Luiz Bruno
 
-<br>
+<div>
+  <a href="https://github.com/LuizBrunoST">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBrunoST&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBrunoST&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+  
+## Habilidades
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="LuizBrunoST-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="LuizBrunoST-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="LuizBrunoST-JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="LuizBrunoST-JQ" height="30" src="https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black">
+  <img align="center" alt="LuizBrunoST-PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="LuizBrunoST-CSharp" height="30" src="https://img.shields.io/badge/C%23-8C1CFC?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div>
+  
+## Atualmente Estudando
 
-# pt-BR
-- 👋 Olá, sou Luiz Bruno R. T. Administro as páginas [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES) | [SCRIPT TUTORIAIS](https://scripttutoriais.blogspot.com/).
-- 👀 Estou interessado em quase tudo.
-- 🌱 Atualmente estou aprendendo SQL.
-- 💞️ Procuro colaborar em quase tudo.
-- 📫 Como entrar em contato comigo [LUMATECH](https://www.facebook.com/LUMATECHAPPSEGAMES).
-<br>
-Ajude-nos com novos projetos, apoie financeiramente [PayPal](https://www.paypal.com/donate/?hosted_button_id=54V8JBM3G78N8)
+## Visitas
+  
+![Visitor Count](https://profile-counter.glitch.me/LuizBrunoST/count.svg)
+  
+##
+  
+<div style="display: inline_block;"> 
+<img style="display: inline_block;" src="https://img.shields.io/youtube/channel/views/UC0VcBQlPa9t1dO9z7jGuk5A?style=social" alt="LuizBrunoST">
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=54V8JBM3G78N8" alt="Doe" title="Doe" target="_blank">
+  <img  style="display: inline_block;" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" alt="Doe">
+</a>
+</div>
