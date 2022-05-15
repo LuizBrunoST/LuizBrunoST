@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Luiz Bruno
-
 <div>
   <a href="https://github.com/LuizBrunoST">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBrunoST&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,11 +24,40 @@
 ![Visitor Count](https://profile-counter.glitch.me/LuizBrunoST/count.svg)
   
 ##
-  
+
+<div style="">
+<h1>Trabalhos</h1>
+  <div>
+    <a href="http://scripttutoriais.provisorio.ws/" target="_blank" >Script Tutoriais</a>
+    <span>Onde voce posta codigos executaveis versoes WEB</span>
+  </div>
+  <div>
+    <a href="http://lumatechturbogames.esporte.ws/" target="_blank" >LUMATECH TURBO GAMES</a>
+    <span>bom esse e o que eu mais respeito, sitema de sorteios onde o usuario participa de sorteios</span>
+  </div>
+  <div>
+    <a href="http://lumatechappsegames.tecnologia.ws/" target="_blank" >LUMATECH</a>
+    <span>Site da empresa ainda falta terminalo.</span>
+  </div>
+    <div>
+    <a href="http://tvlivre.imprensa.ws/" target="_blank" >Tv livre</a>
+    <span>Site de canais de televisao.</span>
+  </div>
+  <div>
+    <a href="http://tvfiquedeolho.com/" target="_blank" >Tv fique de olho</a>
+    <span>Um canal de tv live web.</span>
+  </div>
+</div>
+
+
 <div style="display: inline_block;"> 
 <img style="display: inline_block;" src="https://img.shields.io/youtube/channel/views/UC0VcBQlPa9t1dO9z7jGuk5A?style=social" alt="LuizBrunoST">
 
+ 
 <a href="https://www.paypal.com/donate/?hosted_button_id=54V8JBM3G78N8" alt="Doe" title="Doe" target="_blank">
   <img  style="display: inline_block;" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" alt="Doe">
 </a>
 </div>
+
+
+
