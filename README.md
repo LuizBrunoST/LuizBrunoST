@@ -47,6 +47,10 @@
     <a href="http://tvfiquedeolho.com/" target="_blank" >Tv fique de olho</a>
     <span>Um canal de tv live web.</span>
   </div>
+  <div>
+    <a href="https://scripttutoriais.blogspot.com/" target="_blank" >Blog Script Tutoriais</a>
+    <span>Trabalhos mais detalhados</span>
+  </div>
 </div>
 
 
