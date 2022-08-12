@@ -25,19 +25,15 @@
   
 ##
 
-<div style="">
+<div>
 <h1>Trabalhos</h1>
   <div>
     <a href="http://scripttutoriais.provisorio.ws/" target="_blank" >Script Tutoriais</a>
-    <span>Onde voce posta codigos executaveis versoes WEB</span>
+    <span>Onde você posta codigos executaveis versões WEB</span>
   </div>
   <div>
-    <a href="http://lumatechturbogames.esporte.ws/" target="_blank" >LUMATECH TURBO GAMES</a>
+    <a href="https://lumatechappsegames.com.br" target="_blank" >LUMATECH</a>
     <span>bom esse e o que eu mais respeito, sitema de sorteios onde o usuario participa de sorteios</span>
-  </div>
-  <div>
-    <a href="http://lumatechappsegames.tecnologia.ws/" target="_blank" >LUMATECH</a>
-    <span>Site da empresa ainda falta terminalo.</span>
   </div>
     <div>
     <a href="http://tvlivre.imprensa.ws/" target="_blank" >Tv livre</a>
