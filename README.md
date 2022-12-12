@@ -28,10 +28,6 @@
 <div>
 <h1>Trabalhos</h1>
   <div>
-    <a href="http://scripttutoriais.provisorio.ws/" target="_blank" >Script Tutoriais</a>
-    <span>Onde você posta codigos executaveis versões WEB</span>
-  </div>
-  <div>
     <a href="http://lumatechmax.com.br" target="_blank" >LUMAMAX</a>
     <span>bom esse e o que eu mais respeito, sitema de sorteios onde o usuario participa de sorteios</span>
   </div>
