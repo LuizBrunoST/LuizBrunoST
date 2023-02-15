@@ -28,7 +28,7 @@
 <div>
 <h1>Trabalhos</h1>
   <div>
-    <a href="http://lumatechmax.com.br" target="_blank" >LUMAMAX</a>
+    <a href="https://www.lumamax.com.br" target="_blank" >LUMAMAX</a>
     <span>bom esse e o que eu mais respeito, sitema de sorteios onde o usuario participa de sorteios</span>
   </div>
     <div>
