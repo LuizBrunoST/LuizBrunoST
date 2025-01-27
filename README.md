@@ -31,10 +31,6 @@
     <a href="https://www.lumamax.com.br" target="_blank" >LUMAMAX</a>
     <span>bom esse e o que eu mais respeito, sitema de sorteios onde o usuario participa de sorteios</span>
   </div>
-    <div>
-    <a href="http://tvlivre.imprensa.ws/" target="_blank" >Tv livre</a>
-    <span>Site de canais de televisao.</span>
-  </div>
   <div>
     <a href="https://scripttutoriais.blogspot.com/" target="_blank" >Blog Script Tutoriais</a>
     <span>Trabalhos mais detalhados</span>
