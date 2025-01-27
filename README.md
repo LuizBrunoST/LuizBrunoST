@@ -44,7 +44,7 @@
     <span>Explore nosso editor de código online para HTML, CSS e JavaScript. Três abas separadas para edição, visualização em tempo real e destaque de sintaxe. Crie páginas web incríveis de maneira eficiente.</span>
   </div>
   <div>
-    <a href="https://luizbrunost.github.io/convert-img/" target="_blank" >CONVERT IMG</a>
+    <a href="https://convertimg.lumamax.com.br/" target="_blank" >CONVERT IMG</a>
     <span>Converta a suas imagens em todos os formatos.</span>
   </div>
 </div>
